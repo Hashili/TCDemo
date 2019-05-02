@@ -13,7 +13,7 @@ public class MyDemoClass {
 		WebDriver driver  = null;
 		// TODO Auto-generated method stub
 		System.out.println("****************************************************");
-		System.out.println("************jhghjhgjh*****This is a DemoCLass****************");
+		System.out.println("************This is a DemoCLass****************");
 		System.out.println("****************************************************");
 		//System.setProperty("webdriver.driver.chrome", ".\\chromedriver1.exe");
 		driver  = new ChromeDriver();
