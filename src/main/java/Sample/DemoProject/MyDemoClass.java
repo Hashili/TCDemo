@@ -13,9 +13,9 @@ public class MyDemoClass {
 		WebDriver driver  = null;
 		// TODO Auto-generated method stub
 		System.out.println("****************************************************");
-		System.out.println("*****************This is a DemoCLass****************");
+		System.out.println("************jhghjhgjh*****This is a DemoCLass****************");
 		System.out.println("****************************************************");
-		System.setProperty("webdriver.driver.chrome", ".\\chromedriver.exe");
+		//System.setProperty("webdriver.driver.chrome", ".\\chromedriver1.exe");
 		driver  = new ChromeDriver();
 		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 		driver.get("http://executeautomation.com/demosite/Login.html");
